@@ -22,3 +22,5 @@ http://harunalrosyid.site/Kriptografi-Harunalrosyid-170101010/AES%20256
 
 Berikut ini Link Paper
 
+
+https://drive.google.com/file/d/1ipUirKvgDnu-RmhaDObwD-d9Dl5T-0Nz/view?usp=sharing
