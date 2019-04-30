@@ -13,7 +13,7 @@ Versi ROT 3
 http://harunalrosyid.site/Kriptografi-Harunalrosyid-170101010/ROT3/
 
 
-Versi Aes 256
+Versi modifikasi dengan Aes 256
 
 
 http://harunalrosyid.site/Kriptografi-Harunalrosyid-170101010/AES%20256
